@@ -6,7 +6,7 @@ All other instances have been created by members of the BrandMeister Community.
 
 ##Disclaimer
 This repository will only contain stable releases. Since this new dashboard will be interfacing with the selfcare, master servers and give support for sysops to edit their repeaters, we cannot afford it to release unstable builds here.
-This is why all development will be done on a private gitlab server. As soon as new features become stable, this repository will be updated as soon as possible
+This is why all development will be done on a private gitlab server. This repository will be updated as soon as possible when new (stable) builds are released.
 
 ##Issue Tracker
 Please use the issue tracker to report any bugs you find on the dashboard.
