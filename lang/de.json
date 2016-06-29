@@ -38,8 +38,8 @@
     "graphYaxis": "Eigenbau/Hotspot/Repeater",
     "homebrewHotspot": "Eigenbau Hotspot",
     "dv4minis": "DV4minis",
-    "homebrewRepeaters": "Eigenbau Repeaters",
-    "industrialRepeaters": "Industrielle Repeaters",
+    "homebrewRepeaters": "Eigenbau Repeater",
+    "industrialRepeaters": "Industrielle Repeater",
     "repeaterModels": "Repeater-Modelle",
     "repeaterVersions": "Firmware-Versionen",
     "piChartDescr": "Klick auf einen Teil der Grafik, um Details zu sehen",
@@ -56,7 +56,7 @@
     "emptyTable": "Keine Daten in der Tabelle verfügbar",
     "info": "Zeige _START_ bis _END_ von _TOTAL_ Einträgen",
     "infoEmpty": "Zeige 0 bis 0 von 0 Einträgen",
-    "infoFiltered": "(gefiltert von _MAX_ insgesamte Einträgen)",
+    "infoFiltered": "(gefiltert von _MAX_ Einträgen ingesamt)",
     "infoPostFix": "",
     "infoThousands": ",",
     "lengthMenu": "Zeige _MENU_ Einträge",
@@ -71,8 +71,8 @@
       "previous": "Vorherige"
     },
     "aria": {
-      "sortAscending": ": aktivieren um Spalte aufsteigend zu sortieren",
-      "sortDescending": ": aktivieren um Spalte absteigend zu sortieren"
+      "sortAscending": ": aktivieren, um Spalte aufsteigend zu sortieren",
+      "sortDescending": ": aktivieren, um Spalte absteigend zu sortieren"
     }
   },
   "error": {
@@ -87,10 +87,10 @@
     "body": {
       "403": "Die ausgewählte Seite erfordert höhere Berechtigungen. Falls Du meinst, aufgrund eines Fehlers wird der Zugriff blockiert, benachrichtige bitte einen BrandMeister Entwickler. Hier klicken um <a href='.'>zurück zum Dashboard</a> zu gelangen.",
       "404": "Die angeforderte Seite konnte nicht gefunden werden.",
-      "500": "Der Server lieferte einen unerwarteten Fehler zurück, wir bitten um Entschuldigung!",
-      "502": "Die BrandMeister API antwortet nicht, bitte versuche es später noch einmal oder benachrichtige einen BrandMeister Entwickler, falls deas Problem weiterhin auftritt.",
-      "503": "Die BrandMeister API ist vorübergehend nicht verfügbar, bitte versuche es später noch einmal oder benachrichtige einen BrandMeister Entwickler, falls das Problem weiterhin auftritt.",
-      "504": "Die Anfrage führte zu einer Zeitüberschreitung der BrandMeister API, bitte versuche es später noch einmal oder benachrichtige einen BrandMeister Entwickler, falls der Fehler weiterhin auftritt."
+      "500": "Der Server lieferte einen unerwarteten Fehler zurück. Wir bitten um Entschuldigung!",
+      "502": "Die BrandMeister API antwortet nicht. Bitte versuche es später noch einmal oder benachrichtige einen BrandMeister Entwickler, falls das Problem weiterhin auftritt.",
+      "503": "Die BrandMeister API ist vorübergehend nicht verfügbar. Bitte versuche es später noch einmal oder benachrichtige einen BrandMeister Entwickler, falls das Problem weiterhin auftritt.",
+      "504": "Die Anfrage führte zu einer Zeitüberschreitung der BrandMeister API. Bitte versuche es später noch einmal oder benachrichtige einen BrandMeister Entwickler, falls der Fehler weiterhin auftritt."
     }
   },
   "footer": {
@@ -106,7 +106,7 @@
   },
   "hotspots": {
     "hotspots": "Hotspots",
-    "number": "Number",
+    "number": "Nummer",
     "name": "Name",
     "hardware": "Hardware",
     "firmware": "Firmware",
@@ -129,7 +129,7 @@
     "myCall": "Eigenes Rufzeichen",
     "myID": "Eigene ID",
     "source": "Ursprung",
-    "sourceID": "UrsprungsID",
+    "sourceID": "Ursprungs ID",
     "sourceCall": "Quelle Rufzeichen",
     "destination": "Ziel",
     "destinationID": "Ziel ID",
@@ -153,8 +153,8 @@
     "logout": "Abmelden",
     "profile": "Profil",
     "empty": "Bitte Benutzername und Passwort eingeben!",
-    "reauth": "Die Sitzung ist abgelaufen, bitte zum Fortsetzen neu anmelden!",
-    "failed": "Fehler bei Anmeldung aufgrund einer falschen Benutzernamen und/oder Passwort!",
+    "reauth": "Die Sitzung ist abgelaufen. Bitte zum Fortsetzen neu anmelden!",
+    "failed": "Fehler bei Anmeldung aufgrund eines falschen Benutzernamens und/oder Passworts!",
     "deactivated": "Ihr Konto war deaktiviert! Bitte kontaktieren Sie Ihren Master-Server-Manager!",
     "lookup": "Es ist ein Fehler bei der Anforderung der Profildaten vom Server aufgetreten!",
     "selfcareCredentials": "Bitte die Anmeldedaten aus dem SelfCare-Bereich verwenden."
@@ -162,7 +162,7 @@
   "masters": {
     "masters": "Master",
     "country": "Land",
-    "number": "MasterID",
+    "number": "Master ID",
     "version": "Version",
     "links": "Links",
     "status": "Status",
@@ -177,7 +177,7 @@
     "reflectors": "Reflektoren",
     "clusters": "Cluster",
     "devices": "Geräte",
-    "repeaters": "Repeaters",
+    "repeaters": "Repeater",
     "hotspots": "Hotspots",
     "masters": "Master",
     "alerts": "Warnungen",
@@ -224,12 +224,12 @@
   },
   "profile": {
     "profile": "Profil",
-    "profileOf": "%s's Profil",
+    "profileOf": "%ss Profil",
     "location": "Standort",
     "website": "Webseite",
     "email": "Email",
     "id": "ID",
-    "dmrIdsOf": "%s's DMR IDs",
+    "dmrIdsOf": "%ss DMR IDs",
     "lastSeen": "Zuletzt aktiv",
     "onAirTime": "TX Gesamtzeit / Woche",
     "edit": "Edit",
@@ -301,7 +301,7 @@
     "extendedRoutingForDv4mini": "Extended Routing für DV4mini",
     "userID": "User ID",
     "chooseDongle": "Wähle einen Dongle",
-    "mappedGroup": "Geben Sie einen zugeordneten Gruppe (TalkGroup) ID",
+    "mappedGroup": "Geben Sie eine zugeordnete Gruppe (TalkGroup) ID",
     "mappedGroupSelect": "Oder wählen Sie eine TalkGroup aus der Liste",
     "talkgroup": "Talkgroup",
     "save": "Einstellungen speichern",
@@ -310,6 +310,6 @@
     "master": "Master",
     "error": "Fehler!",
     "missingDongle": "Fehler: Dongle nicht gefunden",
-    "errorReflector": "Fehler: Keine Reflektorverbindung möglich, bitte eine Talkgroup verwenden"
+    "errorReflector": "Fehler: Keine Reflektorverbindung möglich. Bitte eine Talkgroup verwenden"
   }
 }
