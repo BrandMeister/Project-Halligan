@@ -1,4 +1,5 @@
-alerts": {
+{
+  "alerts": {
     "alerts": "Alertas",
     "time": "Fecha",
     "repeater": "Repetidor",
@@ -95,7 +96,7 @@ alerts": {
   },
   "footer": {
     "codedWithLoveByThe": "%s con %s de",
-    "like": "¡Dale a "Me gusta" en Facebook!",
+    "like": "¡Dale a \"Me gusta\" en Facebook!",
     "donate": "Dona para un %s o para un %s",
     "legal": "Información Legal",
     "version": "Versión"
