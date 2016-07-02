@@ -39,7 +39,7 @@
     "homebrewHotspots": "Самодельные Точки доступа",
     "dv4minis": "DV4mini",
     "homebrewRepeaters": "Самодельные Репитеры",
-    "industrialRepeaters": "Индустриальные Репитеры",
+    "industrialRepeaters": "Заводские Репитеры",
     "repeaterModels": "Модели",
     "repeaterVersions": "Версии ПО",
     "piChartDescr": "Нажмите на сектор диаграммы чтобы увидеть детали",
@@ -49,7 +49,7 @@
     "helpUsImprove": "Помоги BrandMeister-у!",
     "fullReport": "Полный отчет",
     "voiceCalls": "Голосовые вызовы",
-    "homebrewHotspot": "Самодельная Точка доступа",
+    "homebrewHotspot": "Самодельные Точки Доступа",
     "homebrewRepeaters": "Самодельные Репитеры"
   },
   "dataTables": {
@@ -180,7 +180,7 @@
     "reflectors": "Рефлекторы",
     "clusters": "Кластеры",
     "alerts": "Оповещения",
-    "dataVisualisation": "Статистика по данным",
+    "dataVisualisation": "Статистика",
     "calls": "Статистика Вызовов",
     "networkStructure": "Сетевая инфраструктура",
     "networkMap": "Карта Сети",
@@ -188,7 +188,7 @@
     "extendedRouting": "Расширенная маршрутизация",
     "hoseline": "Hose line",
     "wiki": "BrandMeister Вики",
-    "selfCare": "Помоги-Себе-Сам",
+    "selfCare": "Самообслуживание",
     "helpdesk": "Helpdesk",
     "sysopMenu": "Меню Оператора",
     "sysopDashboard": "Приборная панель Оператора",
@@ -212,7 +212,7 @@
     "notResponding": "Не отвечает!"
   },
   "news": {
-    "latestNews": "Последшие новости BrandMeister",
+    "latestNews": "Последние новости BrandMeister",
     "publishedBy": "Опубликовано",
     "like": "Нравится",
     "shareFacebook": "Поделись на Facebook",
@@ -237,9 +237,9 @@
     "seenNever": "Никогда"
   },
   "register": {
-    "notAMember": "Еще не зарегистрирован?",
+    "notAMember": "Еще не зарегистрированы?",
     "alreadyAMember": "У Вас точно уже есть SelfCare аккаунт на %s?",
-    "register": "Регистрируйтесь",
+    "register": "Зарегистрируйтесь!",
     "registration": "Регистрация",
     "generalAccountDetails": "Основные свойства Аккаунта",
     "callsign": "Позывной",
