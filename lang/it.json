@@ -54,7 +54,7 @@
   },
   "dataTables": {
     "all": "All",
-    "emptyTable":     "Dati non disponibili nel prospetto",
+    "emptyTable":     "Dati non disponibili",
     "info":           "Mostra _da_START_ a _END_di _TOTAL_ risultati",
     "infoEmpty":      "Mostra 0 di 0 di 0 risultati",
     "infoFiltered":   "(filtrato di un totale di_MAX_risultati)",
