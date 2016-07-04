@@ -234,7 +234,13 @@
     "onAirTime": "TX time this week",
     "edit": "Edit",
     "repeatersManagedBy": "Repeaters managed by",
-    "seenNever": "Never"
+    "seenNever": "Never",
+    "close": "Close",
+    "upload": "Upload",
+    "rotateLeft": "Rotate left",
+    "rotateRight":"Rotate right",
+    "changeProfilePicture":"Change profile picture",
+    "save": "Save"
   },
   "register": {
     "notAMember": "Not a member?",
