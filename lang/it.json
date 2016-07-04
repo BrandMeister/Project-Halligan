@@ -61,7 +61,7 @@
     "infoPostFix":    "",
     "infoThousands":  ",",
     "lengthMenu":     "Mostra _MENU_ risultati",
-    "loadingRecords": "Caridanco…",
+    "loadingRecords": "Caricando…",
     "processing":     "Processando…",
     "search":         "Ricerca:",
     "zeroRecords":    "Nessun risultato trovato",
@@ -234,7 +234,13 @@
     "onAirTime": "Tempo di TX in questa settimana",
     "edit": "Modifica",
     "repeatersManagedBy": "Ripetitore gestito da",
-    "seenNever": "Mai"
+    "seenNever": "Mai",
+    "close": "Chiudi",
+    "upload": "Carica",
+    "rotateLeft": "Ruota a sinistra",
+    "rotateRight":"Ruota a destra",
+    "changeProfilePicture":"Cambia immagine di profilo",
+    "save": "Salva"
   },
   "register": {
     "notAMember": "Non ancora membro?",
