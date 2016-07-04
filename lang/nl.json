@@ -234,7 +234,13 @@
     "edit": "Bewerken",
     "repeatersManagedBy": "Repeaters onder het beheer van",
     "lastRepeater": "Repeater",
-    "seenNever" : "Nooit"
+    "seenNever" : "Nooit",
+    "close": "Sluiten",
+    "upload": "Upload",
+    "rotateLeft": "Linksom draaien",
+    "rotateRight":"Rechtsom draaien",
+    "changeProfilePicture":"Profiel photo uploaden",
+    "save": "Opslaan"
   },
   "register": {
     "notAMember": "Nog geen account?",
