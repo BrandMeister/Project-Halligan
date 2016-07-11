@@ -181,8 +181,8 @@
     "clusters": "Kluster",
     "alerts": "Varningar",
     "dataVisualisation": "Datavisualisering",
-    "calls": "Anropstatistik",
-    "networkStructure": "Nätverkstruktur",
+    "calls": "Anropsstatistik",
+    "networkStructure": "Nätverksstruktur",
     "networkMap": "Nätverkskarta",
     "services": "Tjänster",
     "extendedRouting": "Extended Routing",
@@ -319,6 +319,6 @@
     "master": "Master",
     "error": "Fel!",
     "missingDongle": "Fel: Hittar inte enhet",
-    "errorReflector": "Fel Det går inte att ansluta till reflektor vämligen använd en talgrupp"
+    "errorReflector": "Fel Det går inte att ansluta till reflektor vänligen använd en talgrupp"
   }
 }
