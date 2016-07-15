@@ -294,7 +294,7 @@
     "pageSettings": "Налаштування сторінки",
     "displayAlerts": "Відображати сповіщення",
     "displayAlertsInfo": "Відображати повідомлення, якщо сервер недоступний",
-    "apiTimeout": "Чвс очікування API",
+    "apiTimeout": "Час очікування API",
     "apiTimeoutInfo": "Час оновлення даних",
     "displayDatetime": "Відобразити дату/час",
     "displayDatetimeInfo": "Відобразити дату/час останнього в ефірі"
