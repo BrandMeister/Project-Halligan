@@ -38,7 +38,6 @@
     "graphYaxis": "Homebrew/Hotspot/Repeaters",
     "homebrewHotspots": "Homebrew Hotspots",
     "dv4minis": "DV4minis",
-    "homebrewRepeaters": "Homebrew Repeaters",
     "industrialRepeaters": "Industrial Repeaters",
     "repeaterModels": "Repeater models",
     "repeaterVersions": "Firmware versions",
@@ -47,7 +46,6 @@
     "donations": "Donations",
     "eurOfTotal": "of",
     "helpUsImprove": "Help BrandMeister!",
-    "fullReport": "Full report",
     "voiceCalls": "Voice calls",
     "homebrewHotspot": "Homebrew hotspots",
     "homebrewRepeaters": "Homebrew repeaters"
