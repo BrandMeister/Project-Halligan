@@ -38,7 +38,6 @@
     "graphYaxis": "Homebrew/Hotspotok/Átjátszók",
     "homebrewHotspots": "Homebrew hotspotok",
     "dv4minis": "DV4minik",
-    "homebrewRepeaters": "Homebrew átjátszók",
     "industrialRepeaters": "Ipari átjátszók",
     "repeaterModels": "Átjátszó típusok",
     "repeaterVersions": "Firmware verziók",
@@ -48,7 +47,8 @@
     "eurOfTotal": "of",
     "helpUsImprove": "Segíts a BrandMeisternek!",
     "voiceCalls": "Hanghívások",
-    "homebrewHotspot": "Homebrew hotspotok"
+    "homebrewHotspot": "Homebrew hotspotok",
+    "homebrewRepeaters": "Homebrew átjátszók"
   },
   "dataTables": {
     "all": "Összes",
