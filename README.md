@@ -18,5 +18,7 @@ Merge requests can be made here too, these will then be moderated and accepted. 
 If you've noticed that something is not correct in your language or any other language you speak/know, please create a merge request for this. We would be extremely happy if you could copy the lang/en.json file and translate it in your own language! The more languages the better!
 All language files that have missing translations or do not contain a translation string from the latest stable build will be automatically shown to the user in the default language (english).
 
+OR use https://www.transifex.com/maze/brandmeister-dashboard/
+
 ##Developers
 [Yentel (ON3YH)](http://on3yh.be) and [Rudy (PD0ZRY)](http://pd0zry.nl)
