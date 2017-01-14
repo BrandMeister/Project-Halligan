@@ -28,7 +28,6 @@
     "hotspot": "Hotspots",
     "repeaters": "Repeaters",
     "dv4mini": "DV4mini",
-    "fullReport": "Full rapport",
     "masters": "Masters",
     "repeaterInRX": "Repeater i RX",
     "repeaterInTX": "Repeater i TX",
@@ -38,7 +37,6 @@
     "graphYaxis": "Homebygge/Hotspot/Repeaters",
     "homebrewHotspots": "Hembyggda Hotspots",
     "dv4minis": "DV4minis",
-    "homebrewRepeaters": "Hembyggda Repeaters",
     "industrialRepeaters": "Industri Repeaters",
     "repeaterModels": "Repeater modeller",
     "repeaterVersions": "Firmware versioner",
@@ -181,8 +179,8 @@
     "clusters": "Kluster",
     "alerts": "Varningar",
     "dataVisualisation": "Datavisualisering",
-    "calls": "Anropstatistik",
-    "networkStructure": "Nätverkstruktur",
+    "calls": "Anropsstatistik",
+    "networkStructure": "Nätverksstruktur",
     "networkMap": "Nätverkskarta",
     "services": "Tjänster",
     "extendedRouting": "Extended Routing",
@@ -319,6 +317,6 @@
     "master": "Master",
     "error": "Fel!",
     "missingDongle": "Fel: Hittar inte enhet",
-    "errorReflector": "Fel Det går inte att ansluta till reflektor vämligen använd en talgrupp"
+    "errorReflector": "Fel Det går inte att ansluta till reflektor vänligen använd en talgrupp"
   }
 }
