@@ -84,7 +84,7 @@
       "504": "API Gateway Timeout"
     },
     "body": {
-      "403": "Sidan du försöker att besöka kräver vissa behörigheter som du inte har. Om du tror att detta är ett missförstånd, kontakta en BrandMeister Developer. Klicka här för <a href='.'>att komma tillbaka till kontrollpanelen</a>.",
+      "403": "Sidan du försöker att besöka kräver vissa behörigheter som du inte har. Om du tror att detta är ett missförstånd, kontakta en BrandMeister utvecklare. Klicka här för <a href='.'>att komma tillbaka till kontrollpanelen</a>.",
       "404": "Sidan du har begärt kunde inte hittas.",
       "500": "Servern påträffade ett oväntat fel, ber om ursäkt för besväret!",
       "502": "BrandMeister API svarar inte, försök igen senare eller kontakta en BrandMeister utvecklare om det händer igen.",
@@ -197,7 +197,7 @@
     "systemSettings": "Systeminställningar",
     "sysopManagement": "Sysophantering",
     "repeaterManagement": "Repeaterhantering",
-    "talkgroupManagement": "Talgruppsantering",
+    "talkgroupManagement": "Talgruppshantering",
     "coreMenu": "BM Huvudmeny",
     "coreDashboard": "Huvudkontrollpanel",
     "masterManagement": "Master Serverhantering",
