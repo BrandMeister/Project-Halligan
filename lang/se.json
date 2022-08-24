@@ -86,7 +86,7 @@
     "body": {
       "403": "Sidan du försöker att besöka kräver vissa behörigheter som du inte har. Om du tror att detta är ett missförstånd, kontakta en BrandMeister Developer. Klicka här för <a href='.'>att komma tillbaka till kontrollpanelen</a>.",
       "404": "Sidan du har begärt kunde inte hittas.",
-      "500": "Servern påträffade ett oväntat fel, om ursäkt för besväret!",
+      "500": "Servern påträffade ett oväntat fel, ber om ursäkt för besväret!",
       "502": "BrandMeister API svarar inte, försök igen senare eller kontakta en BrandMeister utvecklare om det händer igen.",
       "503": "BrandMeister API är för närvarande inte tillgänglig, försök igen senare eller kontakta en BrandMeister utvecklare om det händer igen.",
       "504": "Din begäran till BrandMeister API timeout. Försök igen senare eller kontakta en BrandMeister utvecklare om det händer igen."
@@ -111,7 +111,7 @@
     "firmware": "Firmware",
     "tx": "TX",
     "rx": "RX",
-    "colorCode": "CC",
+    "colorCode": "ColorCode",
     "status": "Status",
     "master": "Master"
   },
@@ -158,7 +158,7 @@
     "selfcareCredentials": "Logga in med ditt 'SelfCare' konto"
   },
   "map": {
-    "bmmap": "BrandMeister Nätverks karta"
+    "bmmap": "BrandMeister Nätverkskarta"
   },
   "masters": {
     "masters": "Masters",
@@ -184,7 +184,7 @@
     "networkMap": "Nätverkskarta",
     "services": "Tjänster",
     "extendedRouting": "Extended Routing",
-    "hoseline": "Hose line",
+    "hoseline": "Hoseline",
     "wiki": "BM Wiki",
     "selfCare": "SelfCare",
     "helpdesk": "Helpdesk",
@@ -198,7 +198,7 @@
     "sysopManagement": "Sysophantering",
     "repeaterManagement": "Repeaterhantering",
     "talkgroupManagement": "Talgruppsantering",
-    "coreMenu": "BM Huvud Menu",
+    "coreMenu": "BM Huvudmeny",
     "coreDashboard": "Huvudkontrollpanel",
     "masterManagement": "Master Serverhantering",
     "userManagement": "Användarhantering",
@@ -210,7 +210,7 @@
     "notResponding": "Svarar inte"
   },
   "news": {
-    "latestNews": "Senaste nyheter från BrandMeister",
+    "latestNews": "Senaste nytt från BrandMeister",
     "publishedBy": "Publicerat av",
     "like": "Gilla",
     "shareFacebook": "Dela på Facebook",
@@ -242,13 +242,13 @@
   },
   "register": {
     "notAMember": "Inte medlem?",
-    "alreadyAMember": "Har du redan ett 'selfCare' konto på %s?",
+    "alreadyAMember": "Har du redan ett 'SelfCare' konto på %s?",
     "register": "Registrera",
     "registration": "Registrering",
     "generalAccountDetails": "Allmäna konto uppgifter",
     "callsign": "Anropssignal",
     "firstname": "Förnamn",
-    "email": "Epost Address",
+    "email": "E-postdress",
     "security": "Säkerhet",
     "password": "Lösenord",
     "confirmPassword": "Bekräfta lösenord",
@@ -266,7 +266,7 @@
     "firmware": "Firmware",
     "tx": "TX",
     "rx": "RX",
-    "colorCode": "CC",
+    "colorCode": "ColorCode",
     "status": "Status",
     "master": "Master"
   },
@@ -285,8 +285,8 @@
     "firewallHigh": "Hög",
     "saveChangesToId": "Spara förändringar för ID",
     "restoreDefaults": "Återställ standardinställningar",
-    "restoreSettingsFor": "Återställ selfCare inställningar för",
-    "restoreAlert": "Genom att klicka på återställning kommer alla selfCare inställningar återställas till standardinställningar för DMR ID",
+    "restoreSettingsFor": "Återställ SelfCare inställningar för",
+    "restoreAlert": "Genom att klicka på återställning kommer alla SelfCare inställningar återställas till standardinställningar för DMR ID",
     "confirm": "Är du säker på att du vill återställa inställningara för detta ID",
     "restore": "Återställning",
     "cancel": "Avbryt"
